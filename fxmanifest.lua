@@ -3,7 +3,7 @@ game 'gta5'
 
 name 'qb-vehicleinfo'
 description 'Vehicle Information - Converted from esx_vehicleInfos by BlooDY for QBCore'
-author 'Converted for QBCore'
+author 'Bloody'
 version '1.0.0'
 
 dependencies {
